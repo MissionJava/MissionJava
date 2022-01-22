@@ -1,7 +1,5 @@
-- 👋 Hi, I’m Antesh
-- 👀 I’m interested in Java, data structure and algorithm
-- 🌱 I’m currently learning java and data structure
-- 💞️ I’m looking to collaborate on open source stack
+- 👋 Hi, I’m Anteshkumar Sharma
+- 👀 I’m passionate for Java, data structure and algorithm
 - 📫 How to reach me https://www.linkedin.com/in/antesh-s-a6955118/
 
 <!---
