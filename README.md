@@ -3,7 +3,7 @@
 -    Exploring data structure and algorithm,
 - 📫 How to reach me https://www.linkedin.com/in/anteshkumar-sharma-a6955118/
 
-  [![Anteshkumar Sharma's GitHub stats](https://github-readme-stats.vercel.app/api?username=MissionJava&show_icons=true)](https://github.com/MissionJava)
+  [![Anteshkumar Sharma's GitHub stats](https://github-readme-stats.vercel.app/api?username=MissionJava&show_icons=true&hide=stars)](https://github.com/MissionJava)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MissionJava&hide=css&langs_count=10&layout=compact)](https://github.com/MissionJava)
 
 <!---
