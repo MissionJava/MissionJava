@@ -5,7 +5,6 @@
 
   [![Anteshkumar Sharma's GitHub stats](https://github-readme-stats.vercel.app/api?username=MissionJava&show_icons=true&hide=stars)](https://github.com/MissionJava)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MissionJava&hide=css&langs_count=10&layout=compact)](https://github.com/MissionJava)
-  [![willianrod's Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MissionJava)](https://github.com/MissionJava)
 
 <!---
 MissionJava/MissionJava is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
